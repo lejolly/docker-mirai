@@ -37,4 +37,4 @@ For use with Ubuntu 14.04 x64. For the source code, please refer to: [mirai](htt
 	- Username: `root`
 	- Password: `root`
 	- Login credentials can be changed via the last line in  [db.sql](docker-cnc/db.sql)
-	- Launch an attack (for more details refer to: [mirai](https://github.com/lejolly/mirai))
+	- Launch an attack (for more details refer to: [Attack Instructions](https://github.com/lejolly/mirai/blob/master/attack-instructions.md))
